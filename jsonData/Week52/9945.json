@@ -1,0 +1,62 @@
+{
+  "name": "Echo Forest #9945",
+  "symbol": "ECHO",
+  "description": "We’ve created 10,000 unique NFTs, each representing a character in the fantasy world called the Echoverse. Every NFT in our collection is a combination of 1 of 10 different forest animals, with an assigned class or profession and is equipped with anywhere from 2-4 items that vary in rarity from common to unique. The utility of the Echo Forest NFT comes in two forms; earning EXP tokens and voting in the Echo Forest DAO.",
+  "seller_fee_basis_points": 500,
+  "image": "9945.png",
+  "external_url": "https://echoforest.app",
+  "edition": 9945,
+  "attributes": [
+    {
+      "trait_type": "Animal",
+      "value": "Wolf"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Winter"
+    },
+    {
+      "trait_type": "Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Heavy Armor of Luck"
+    },
+    {
+      "trait_type": "Cape",
+      "value": "Crimson Cape of Luck"
+    },
+    {
+      "trait_type": "Helm",
+      "value": "Padded Helm of Wealth"
+    },
+    {
+      "trait_type": "Sword",
+      "value": "Tempered Short Sword of Luck"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9945.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8BW3QDxMzSQUD5trRMRKessp5Bntih19BhP5JdCp5uhW",
+        "share": 90
+      },
+      {
+        "address": "G9x7XrTgJo51HCCThrVqgAiL4sasJZ9mUgj7n9L7yyWZ",
+        "share": 10
+      }
+    ]
+  }
+}
